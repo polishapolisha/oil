@@ -1,0 +1,31 @@
+﻿{
+  "version": "1.0",
+  "branchId": "3bec9a52-5ff0-4738-b48f-3681860532bf",
+  "branchName": "main",
+  "repositoryName": "oiloiloil",
+  "exportedAt": "2026-05-19T11:47:46.8141026Z",
+  "objectTypes": [
+    {
+      "id": "c1570640-47aa-4cb8-b7da-0af0f7a7b8ac",
+      "code": "CODE-TEST-FIXED111111",
+      "name": "Диаметр",
+      "description": "11111",
+      "category": "string",
+      "parentId": null,
+      "parent": null,
+      "children": null,
+      "iconId": null,
+      "icon": null,
+      "isAbstract": true,
+      "createdAt": "2026-05-19T11:47:29.790466Z",
+      "updatedAt": "2026-05-19T11:47:29.791673Z",
+      "parameters": null,
+      "referencedByParameters": null,
+      "branchId": "3bec9a52-5ff0-4738-b48f-3681860532bf",
+      "branch": null
+    }
+  ],
+  "typeParameters": [],
+  "units": [],
+  "images": []
+}
